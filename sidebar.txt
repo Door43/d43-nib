@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nib:home|Door43 (nib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nib|d43-nib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nib/archive/master.zip|d43-nib.zip]]
+
+**Recent Changes**
+{{changes>ns = nib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nib|Ethnologue data]]
+
